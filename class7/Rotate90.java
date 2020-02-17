@@ -14,8 +14,8 @@ public class Rotate90 {
 				arr[i][j] = s.nextInt();
 			}
 		}
-		rotate(arr);
-		rotate90(arr);
+		rotate(arr);      //  <--- these will give array roteted by 90 degrree without changing the value of array.
+		rotate90(arr);    //  <--- these will give array roteted by 90 degrree with changing the value of array.
 		display(arr);
 		
 		s.close();
