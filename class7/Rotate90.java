@@ -1,3 +1,5 @@
+// in this Question i use various comment statement for my understanding.
+
 package class7;
 
 import java.util.Scanner;
